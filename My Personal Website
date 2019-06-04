@@ -1,0 +1,96 @@
+<!<!DOCTYPE html>
+  <html>
+
+  <head>
+    <title>Mya Bowe</title>
+
+  </head>
+  <style>
+    h2 {
+      color: rgb(129, 165, 232);
+    }
+
+    h3 {
+      color: rgb(110, 163, 111);
+    }
+
+    p {
+      color: rgb(81, 81, 81);
+    }
+
+    li {
+      color: rgb(81, 81, 81);
+    }
+
+    body {
+      background-color: rgb(247, 240, 227);
+    }
+  </style>
+
+  <body>
+
+    <h1><strong>Mya Bowe</strong></h1>
+    <img src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.0-9/53255462_2059932357638416_6974770603710480384_n.jpg?_nc_cat=110&_nc_ht=scontent-msp1-1.xx&oh=e43bcd732c89d076d4aade21171bba0f&oe=5D74FF9F" width="200px">
+    <br><br><br>
+    <h2>About Me</h2>
+    <p>Hello my name is Mya, I am a very motivated person. I love to have fun and do meaning full work. I enjoy helping other people to reach there full potential. I enjoy designing and coding websites. </p>
+    <br><hr>
+    <h2>Skills</h2>
+    <ul>
+      <li>Cooking</li>
+      <li>Technology</li>
+      <li>Social Skill</li>
+      <li>Quick Responses</li>
+      <li>Always Improving</li>
+      <li>HTML</li>
+      <li>Helping Others</li>
+    </ul>
+    <br>
+    <h2>Job Experiences</h2>
+    <h3>Job name</h3>
+    <p><strong>My Job title</strong><br>
+      <em>Dates worked</em><br>Description for what I did.
+    </p>
+    <h3>Green Mill</h3>
+    <p><strong>Kitchen Leader</strong><br>
+      <em>June 2018 to April 2019</em><br>As a kitchen leader my responsibility where grate. I worked in prep, banquet, on the line, ordered truck and, did our monthly inventory. I worked directly under our chef.
+    <h3>Syverson Home</h3>
+    <p><strong>Lead Night Cook</strong><br>
+      <em>June 2017 to April 2018</em><br>As a night cook I cooked super for 52 clients biased on a set menu. I had to make accommodations for those who needed them.
+    <h3>Menomonie High School</h3>
+    <p><strong>Lighting Designer</strong><br>
+      <em>April 2017 to June 2017</em><br>Description for what I did.
+    </p>
+    <h3>UW-Stout</h3>
+    <p><strong>Culinary Worker</strong><br>
+      <em>September 2016</em><br>I worked in prep and cooked on their saute bar.
+    </p>
+    <h3>Syverson</h3>
+    <p><strong>Dietary Aid</strong><br>
+      <em>Match 2016 to August 2016</em><br>My job was to gather nourishment and serve meals.
+    </p>
+    <h3>Exeptional Athletics</h3>
+    <p><strong>Gymnastics and Cheer Coach</strong><br>
+      <em>2014 to August 2016</em><br>My job was to coach children ages 3-18 gymnastics. I taught many classes including Ninja Warrior, Gymnastics level 1 and, more.
+    </p>
+    <br>
+    <h2>Schooling</h2>
+    <h3>CVTC</h3>
+    <p><strong>2019-2019</strong><br>I took up Networking and IT for a semester.
+    </p>
+    <h3>UW-Stout</h3>
+    <p><strong>2016-2018</strong><br>I started to go for Early Childhood Education. But in my second semester I went for Networking and IT.
+    </p>
+    <h3>Memorial High School</h3>
+    <p><strong>2012-2016</strong><br>General education.
+    </p>
+    <br>
+    <h2>Contact Information</h2>
+    <p>Phone Number: (715) 214-8735<br> Email: bowej6214@gmail.com <br>Address: 704 Richard Drive
+    </p>
+  </body>
+  <br><br><br>
+  <footer><small>This site was coded by <em>Intertec</em></small></footer>
+
+  </html>
+<!-- // Jasperjstorm13 -->
